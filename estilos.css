@@ -1,0 +1,17 @@
+
+#contents {
+    width: 80%;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: azure;
+}
+
+.bloque_dcha {
+    display: inline-block;
+    width: 40%;
+}
+
+.bloque_izqda {
+    display: inline-block;
+    width: 40%;
+}
